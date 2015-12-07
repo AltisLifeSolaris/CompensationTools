@@ -1,0 +1,23 @@
+E:\PGC RCON\RCON\Release\Phantom Tools.exe.config
+E:\PGC RCON\RCON\Release\Phantom Tools.exe
+E:\PGC RCON\RCON\Release\Phantom Tools.pdb
+E:\PGC RCON\RCON\Release\Phantom Tools.xml
+E:\PGC RCON\RCON\RCON\obj\Release\Interop.ShockwaveFlashObjects.dll
+E:\PGC RCON\RCON\RCON\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\PGC RCON\RCON\RCON\obj\Release\Phantom Tools.vbproj.ResolveComReference.cache
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.Compensation.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.Logs.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.MainPage.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.MessageTest.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.New_Form.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.Punishment.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.RCON_SELECTION.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.PGC_RCON_LOGIN.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.Resources.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.Status.resources
+E:\PGC RCON\RCON\RCON\obj\Release\PGC_RCON.Updater.resources
+E:\PGC RCON\RCON\RCON\obj\Release\Phantom Tools.vbproj.GenerateResource.Cache
+E:\PGC RCON\RCON\RCON\obj\Release\Phantom Tools.exe
+E:\PGC RCON\RCON\RCON\obj\Release\Phantom Tools.xml
+E:\PGC RCON\RCON\RCON\obj\Release\Phantom Tools.pdb
+E:\PGC RCON\RCON\RCON\obj\Release\Phantom Tools.vbprojResolveAssemblyReference.cache

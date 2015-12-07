@@ -1,0 +1,15 @@
+E:\PGC RCON\RCON\RCON\bin\Debug\RCON.exe
+E:\PGC RCON\RCON\RCON\bin\Debug\RCON.pdb
+E:\PGC RCON\RCON\RCON\bin\Debug\RCON.xml
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.Compensation.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.Punishment.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.RCON_SELECTION.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.PGC_RCON_LOGIN.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.Resources.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.Server_Console.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.Settings.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\PGC_RCON.Updater.resources
+E:\PGC RCON\RCON\RCON\obj\Debug\RCON.vbproj.GenerateResource.Cache
+E:\PGC RCON\RCON\RCON\obj\Debug\RCON.exe
+E:\PGC RCON\RCON\RCON\obj\Debug\RCON.xml
+E:\PGC RCON\RCON\RCON\obj\Debug\RCON.pdb

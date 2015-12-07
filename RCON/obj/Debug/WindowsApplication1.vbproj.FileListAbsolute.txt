@@ -1,0 +1,14 @@
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.Punishment.resources
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.RCON_SELECTION.resources
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.PGC_RCON_LOGIN.resources
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.Resources.resources
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\PGC RCON.exe
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\PGC RCON.pdb
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\PGC RCON.xml
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC RCON.exe
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC RCON.xml
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC RCON.pdb
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.Compensation.resources
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.Server_Console.resources
+C:\Users\Shlome\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\PGC_RCON.Settings.resources
